@@ -4,6 +4,8 @@ Just a script using Curl to pull some information about a website to see if it's
 
 Enjoy and if you see something that you don't think is right, let me know and I will get to it when I can!
 
+Oh you have to make sure you have curl installed in order for this to work as well.
+
 Usage:
 
 ./isitsafe.sh https://www.example.com
